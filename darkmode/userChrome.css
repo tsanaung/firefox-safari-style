@@ -14,7 +14,7 @@
 -moz-box-pack: center !important;
 padding-right: 75px !important;
 padding-left: 0px !important;   /* <<=== Add 29px per each button between URL bar and Menu */
-margin-top: -4px; /*FidedByTsan*/
+margin-top: -4px; 
 }
 
 #stop-reload-button .toolbarbutton-icon{
