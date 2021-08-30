@@ -1,0 +1,10 @@
+#TabsToolbar {
+    min-height: 2px !important;
+    max-height: 2px !important;
+    opacity: 0 !important;
+}
+
+#TabsToolbar:hover {
+    max-height: inherit !important;
+    opacity: 1 !important;
+}
